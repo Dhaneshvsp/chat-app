@@ -53,7 +53,7 @@ chat-app/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Dhaneshvsp/chat-app.git)
 cd chat-app
 ```
 
@@ -175,7 +175,7 @@ VITE_SOCKET_URL=http://localhost:5000
 
 ## Version Details
 
-- Node.js: `v22.12.0` (tested)
+- Node.js: `v22.12.0`
 - npm: `10.x`
 - MongoDB: `7.x` 
 - React: `18.3.1`
