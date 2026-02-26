@@ -53,7 +53,7 @@ chat-app/
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Dhaneshvsp/chat-app.git>
+git clone https://github.com/Dhaneshvsp/chat-app.git
 cd chat-app
 ```
 
