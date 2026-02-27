@@ -195,7 +195,7 @@ VITE_SOCKET_URL=http://localhost:5000
 ## Screenshots
 
 ### Signup Page
-![Signup](docs/screenshots/07_signup_page.png.png)
+![Signup](docs/screenshots/07_signup_page.jpeg)
 
 ### Login Page
 ![Login](docs/screenshots/06_login_page.png.png)
