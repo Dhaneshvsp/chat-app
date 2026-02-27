@@ -191,3 +191,26 @@ VITE_SOCKET_URL=http://localhost:5000
 - Private chats are one-to-one conversations.
 - Group rooms can have multiple members.
 - Messages are stored in MongoDB for chat history.
+
+## Screenshots
+
+### Signup Page
+![Signup](docs/screenshots/07_signup_page.png)
+
+### Login Page
+![Login](docs/screenshots/06_login_page.png)
+
+### Chat Dashboard
+![Dashboard](docs/screenshots/01_chat_dashboard.png)
+
+### Group Chat
+![Group Chat](docs/screenshots/02_group_chat_room.png)
+
+### Private Chat
+![Private Chat](docs/screenshots/03_private_chat.png)
+
+### Media Message
+![Media Message](docs/screenshots/04_private_chat_media_message.png)
+
+### Responsive View
+![Mobile View](docs/screenshots/05_no_room_selected.png)
