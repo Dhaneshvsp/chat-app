@@ -195,22 +195,22 @@ VITE_SOCKET_URL=http://localhost:5000
 ## Screenshots
 
 ### Signup Page
-![Signup](docs/screenshots/07_signup_page.png)
+![Signup](docs/screenshots/07_signup_page.png.png)
 
 ### Login Page
-![Login](docs/screenshots/06_login_page.png)
+![Login](docs/screenshots/06_login_page.png.png)
 
 ### Chat Dashboard
-![Dashboard](docs/screenshots/01_chat_dashboard.png)
+![Dashboard](docs/screenshots/01_chat_dashboard.png.png)
 
 ### Group Chat
-![Group Chat](docs/screenshots/02_group_chat_room.png)
+![Group Chat](docs/screenshots/02_group_chat_room.png.png)
 
 ### Private Chat
-![Private Chat](docs/screenshots/03_private_chat.png)
+![Private Chat](docs/screenshots/03_private_chat.png.png)
 
 ### Media Message
-![Media Message](docs/screenshots/04_private_chat_media_message.png)
+![Media Message](docs/screenshots/04_private_chat_media_message.png.png)
 
 ### Responsive View
-![Mobile View](docs/screenshots/05_no_room_selected.png)
+![Mobile View](docs/screenshots/05_no_room_selected.png.png)
